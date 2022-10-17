@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<signos>
+	<signo>
+		<dataInicio>03.21</dataInicio>
+		<dataFim>04.20</dataFim>
+		<signoNome>Áries</signoNome>
+		<descricao>Quem nasce sob o primeiro signo do zodíaco tem seus objetivos claros e faz de tudo para poder alcançá-lo. Contudo, a paciência não é uma virtude dos arianos, que desejam realizações quase que instantâneas, vivendo intensamente o agora. São muito impulsivos e espontâneos, o que faz com que não escondam o que sentem, para o bem ou para o mal.
+.</descricao>
+	</signo>
+	<signo>
+		<dataInicio>04.21</dataInicio>
+		<dataFim>05.20</dataFim>
+		<signoNome>Touro</signoNome>
+		<descricao>As características de Touro refletem muito o elemento o qual pertencem, que é Terra. Por ser um elemento fixo, dificilmente você encontrará taurinos que amem mudanças. Sendo assim, esse elemento também representa certa rigidez e teimosia de quem tem os pés fincados sempre no chão.
+
+Eles costumam ser mais estratégicos e racionais, pensando bastante antes de tomar alguma atitude.</descricao>
+	</signo>
+	<signo>
+		<dataInicio>05.21</dataInicio>
+		<dataFim>06.20</dataFim>
+		<signoNome>Gêmeos</signoNome>
+		<descricao>O signo de Gêmeos é o terceiro do Zodíaco e o segundo do Elemento Ar. Regidos por Mercúrio, pessoas deste signo são comunicativas, versáteis e sociáveis. Como gostam de criar linhas de raciocínio e especulações, estão sempre querendo entender diversos assuntos.</descricao>
+	</signo>
+	<signo>
+		<dataInicio>06.21</dataInicio>
+		<dataFim>07.22</dataFim>
+		<signoNome>Câncer</signoNome>
+		<descricao>Os nativos desse signo pertencem ao elemento Água. Dessa forma, ao mesmo tempo que a fonte da nossa vida, ela também flui e é incerta – assim como as emoções humanas. Portanto, quem tem a Água como base tende a ter variações grandes de sentimentos.
+Assim é com os cancerianos, que são conhecidos por serem dramáticos ou até mesmo um pouco ranzinzas. Na verdade, essas características de Câncer são reflexo do lado afetivo mais intenso.</descricao>
+	</signo>
+	<signo>
+		<dataInicio>07.23</dataInicio>
+		<dataFim>08.22</dataFim>
+		<signoNome>Leão</signoNome>
+		<descricao>O signo de Leão pertence ao elemento Fogo, que basicamente, mostra muita determinação, volatilidade e animação. Quem experimenta toda essa energia tem muita coragem para enfrentar o que for, mas também se torna um pouco temperamental demais.
+Quanto à fama, são conhecidos como os mais vaidosos e exibidos do Zodíaco. Na verdade, eles são regidos por nada menos que o Sol, e realmente são cheios de autoconfiança e gostam de tudo o que é belo ou pomposo.</descricao>
+	</signo>
+	<signo>
+		<dataInicio>08.23</dataInicio>
+		<dataFim>09.22</dataFim>
+		<signoNome>Virgem</signoNome>
+		<descricaoO signo de Virgem tem como elemento base a Terra. Em outras palavras, isso significa que gostam da estabilidade de ter seus pés fincados no chão, tateando o que é palpável e seguro.
+    
+Portanto, os virginianos costumam ser bastante racionais, cautelosos e apegados ao que tem comprovação. Assim, a objetividade e as análises constantes também são caminho conhecido para quem nasceu sob esse signo.
+De fato, tanta minúcia, cuidado e perfeccionismo lhes deu o título de signo “mais chato” do Zodíaco. Aliás, serem “cheios de manias” também define bem os virginianos.</descricao>
+	</signo>
+	<signo>
+		<dataInicio>09.23</dataInicio>
+		<dataFim>10.22</dataFim>
+		<signoNome>Libra</signoNome>
+		<descricao>A personalidade de Libra é mais voltada às ideias e ao racional. Afinal, é um dos signos de Ar, o que significa que pensam bastante e não gostam de se sentir limitados. Inclusive, a inteligência se manifesta nos librianos até mesmo por refletirem antes de emitir uma opinião.
+
+O símbolo de Libra remete à uma balança, e é exatamente disso que eles gostam: harmonia, paz e ponderação.
+Logo, evitam conflito a todo custo e também gostam de ser tratados com educação e respeito.</descricao>
+	</signo>
+	<signo>
+		<dataInicio>10.23</dataInicio>
+		<dataFim>11.21</dataFim>
+		<signoNome>Escorpião</signoNome>
+		<descricao>Como são poderosos os escorpianos! Pertencentes do elemento Água, os escorpianos traduzem perfeitamente aquela máxima: “águas calmas, mas profundas”. A saber, a água representa as emoções, a percepção e também à interiorização.
+
+Sendo assim, o signo de Escorpião é um ótimo representante dessas características, pois em sua personalidade há um mistério e uma potência que carregam todo a energia e a capacidade tem de nos dar a vida, mas também de nos arrastar para o fundo se não tomarmos cuidado.</descricao>
+	</signo>
+	<signo>
+		<dataInicio>11.22</dataInicio>
+		<dataFim>12.21</dataFim>
+		<signoNome>Sagitário</signoNome>
+		<descricao>A base do signo de Sagitário é o Fogo. Embora eles sejam pessoas muito ligadas ao intelecto (notória característica do elemento Ar), a chama se faz presente no signo. Isso porque são estimulantes e espontâneos, além de otimistas e animados.</descricao>
+	</signo>
+	<signo>
+		<dataInicio>12.22</dataInicio>
+		<dataFim>01.20</dataFim>
+		<signoNome>Capricórnio</signoNome>
+		<descricao>Dentre os signos, provavelmente os capricornianos são os mais céticos. Isso porque eles têm como elemento base a Terra, ou seja: seus pés estão bem fincados no chão, no que frutifica, é palpável e vale a pena. Outro ponto chave dos signos terrenos é a disciplina e a dedicação que brota aos montes quando estão empenhados em obter algo.
+
+A personalidade de Capricórnio é, particularmente, sábia e bastante discreta. Dificilmente você verá um capricorniano raiz cometendo loucuras impensadas ou sendo impulsivo.</descricao>
+	</signo>
+	<signo>
+		<dataInicio>01.21</dataInicio>
+		<dataFim>02.18</dataFim>
+		<signoNome>Aquário</signoNome>
+		<descricao>A personalidade dos aquarianos se conecta diretamente ao elemento o qual pertencem, ou seja: Ar. Afinal, o aspecto fala sobre o poder das ideias, da criatividade e também do desprendimento.
+
+Assim, de todos os signos de Ar (Gêmeos e Libra também estão nesse grupo), o signo de Aquário é o mais inventivo, sempre ligado a tudo o que acontece e com forte interesse por diferentes áreas do conhecimento.</descricao>
+	</signo>
+	<signo>
+		<dataInicio>02.19</dataInicio>
+		<dataFim>03.20</dataFim>
+		<signoNome>Peixes</signoNome>
+		<descricao>O signo de Peixes é o último do Zodíaco e seu elemento é a Água. Certamente, esse elemento confere aos piscianos características muito positivas, como a sensibilidade, a adaptação e também a forte intuição.
+
+No entanto, como os demais signos de Água, também pode ter dificuldade de equilibrar as emoções, podendo transbordar seus sentimentos de forma dramática.
+São pessoas criativas e talentosas, mas também são considerados como o “signo do mundo da Lua”.
+
+Devido à imaginação muito fértil, é comum que os piscianos se percam em suas ideias, distraindo-se pela beleza de cada coisinha admirável que há no mundo. </descricao>
+	</signo>
+</signos>
